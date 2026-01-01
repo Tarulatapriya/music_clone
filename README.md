@@ -1,4 +1,4 @@
-**Mini Spotify Clone :https://spotify-updated-hu31-git-main-tarulata-priyas-projects.vercel.app?_vercel_share=QNm3TCzrQAsLk2GHeovnPnwyC4XmkTl2
+**Mini Spotify Clone :://sphttpsotify-updated-hu31-git-main-tarulata-priyas-projects.vercel.app?_vercel_share=QNm3TCzrQAsLk2GHeovnPnwyC4XmkTl2
 
 A simple web-based music player built using HTML, CSS, and JavaScript. This app allows users to play unlimited random songs fetched dynamically from the iTunes API, complete with album covers, progress bars, and volume controls.
 
